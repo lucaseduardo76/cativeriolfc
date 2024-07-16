@@ -11,6 +11,9 @@ public class Time {
 		this.jogador = jogador;
 	}
 
+	public Time() {
+	}
+
 	public char getNome() {
 		return nome;
 	}
